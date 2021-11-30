@@ -138,7 +138,7 @@
             </div>
             <div class="col-md-6">
                 <div class="title-box ">
-                    <h3 class="title-heading" style="color: #fdcc4e !important;">About Us</h3>
+                    <h3 class="title-heading" style="color: #641252 !important;">About Us</h3>
                     <hr class="text-center">
                 </div>
                 <p class="abt-text">Hotel Palace Residency is located in Mumbai's Kurla (W). The hotel is strategically located in the city's center. From our hotel, you can easily visit all of Mumbai. Our rooms are luxurious and comfortable.
@@ -147,7 +147,7 @@ Our USP is relatively close to the Bandra Kurla Complex.
 .</p>
 
                 <div class="title-box ">
-                    <h3 class="title-heading" style="font-size :1.5rem; color: #fdcc4e !important;">Why Choose Us ?</h3>
+                    <h3 class="title-heading" style="font-size :1.5rem; color: #641252 !important;">Why Choose Us ?</h3>
                 </div>
                 <ul class="abt-text">
                     <li>Centrally located.</li>
@@ -196,7 +196,7 @@ Our USP is relatively close to the Bandra Kurla Complex.
             <div class="row">
                 <div class="col-md-6 mx-auto text-center mb-5 section-heading">
                     <div class="title-box ">
-                        <h3 class="title-heading" style="color: #fdcc4e !important;">Hotel Features</h3>
+                        <h3 class="title-heading" style="color: #641252 !important;">Hotel Features</h3>
                         <hr class="text-center mx-auto">
                     </div>
 
@@ -253,7 +253,7 @@ Our USP is relatively close to the Bandra Kurla Complex.
             <div class="row">
                 <div class="col-md-6 mx-auto text-center ">
                     <div class="title-box ">
-                        <h3 class="title-heading"style="color: #fdcc4e !important;">Our Rooms</h3>
+                        <h3 class="title-heading"style="color: #641252 !important;">Our Rooms</h3>
                         <hr class="text-center mx-auto">
                     </div>
 
@@ -269,7 +269,7 @@ Our USP is relatively close to the Bandra Kurla Complex.
 
                             <div class="room-card-text">
                                 <div class="room-title">STANDARD ROOM</div>
-                                <a href="standard.php" style="color: #fdcc4e !important;">Read More</a>
+                                <a href="standard.php" style="color: #641252 !important;">Read More</a>
                             </div>
                         </div>
                     </a>
@@ -283,7 +283,7 @@ Our USP is relatively close to the Bandra Kurla Complex.
 
                             <div class="room-card-text">
                                 <div class="room-title">DELUXE  DOUBLE ROOM</div>
-                                <a href="deluxe.php"style="color: #fdcc4e !important;">Read More</a>
+                                <a href="deluxe.php"style="color: #641252 !important;">Read More</a>
                             </div>
                         </div>
                     </a>
@@ -298,7 +298,7 @@ Our USP is relatively close to the Bandra Kurla Complex.
 
                             <div class="room-card-text">
                                 <div class="room-title">QUADRUPLE ROOM</div>
-                                <a href="suite.php" style="color: #fdcc4e !important;">Read More</a>
+                                <a href="suite.php" style="color: #641252 !important;">Read More</a>
                             </div>
                         </div>
                     </a>

@@ -1,8 +1,8 @@
-<nav class="navbar  navbar-expand-md  site-footer1 " style="background-color: #000 !important">
+<nav class="navbar  navbar-expand-md  site-footer1 " style="background-color: #fff !important">
 
 <!-- Brand -->
-<a class="navbar-brand" href="./">
-    <img src="images/parklane/logo/logo_1.jpeg" alt="Traders Logo" width="60px" height="30px >
+<a class="navbar-brand" href="index.html">
+    <img src="images/parklane/logo/logo_1-black.png" alt="Traders Logo" width="60px" height="30px >
 </a>
 
 <!-- Click to whatsapp button -->
@@ -15,7 +15,7 @@
     <img src="icons/phone.png" width="30px" height="30px" alt="">
 </a>
 <!-- Toggler/collapsibe Button -->
-<button class="navbar-toggler" type="button" style="background-color: #fdcc4e" data-toggle="collapse" data-target="#collapsibleNavbar">
+<button class="navbar-toggler" type="button" style="background-color: #641252" data-toggle="collapse" data-target="#collapsibleNavbar">
     <img src="icons/menu.png" width="30px" height="30px" alt="">
 </button>
 

@@ -61,24 +61,17 @@
 
         </div>
         <div class="container">
-            <div class="row">
-                <div class="col-md-6 offset-3">
-                <h3 class="title-heading">New Offers Coming Soon!</h3>
-                    <p class="abt-text">Discover our offers to get the most out of your experience at hotel palace residency, and find the ideal way to enjoy the great taste and complete well-being in a stunning city setting.</p>
-                    <!-- Discover our offers to get the most out of your experience at hotel palace residency, and find the ideal way to enjoy the great taste and complete well-being in a stunning city setting. -->
-
-                    <!-- <img src="#"> -->
-                </div>
+            <div style="text-align: center; margin: 5% 2%;">
+                <h3 class="title-heading" style="text-align: center;">New Offers Coming Soon!</h3>
+                <p class="abt-text">Discover our offers to get the most out of your experience at hotel palace residency, and find the ideal way to enjoy the great taste and complete well-being in a stunning city setting.</p>
             </div>
         </div>
 
     </div>
 
 
-    <br><br>
-
-             <!--footer -->
-             <?php include 'includes/footer.php'; ?>
+    <!--footer -->
+    <?php include 'includes/footer.php'; ?>
 </div>
 <script src="js/jquery-3.3.1.min.js"></script>
 <script src="js/jquery-migrate-3.0.1.min.js"></script>

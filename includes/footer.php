@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <h5 class="text-white"style="color: #fdcc4e !important;">Nearby Places</h5>
+                <h5 class="text-white"style="color: #641252 !important;">Nearby Places</h5>
                 <p>- Bandra Kurla Complex – 5 minutes<br>
                     - Kurla Station – 7 minutes<br>
                     - Mumbai Airport - 20 minutes<br>
@@ -14,7 +14,7 @@
 
             <div class="col-md-3">
 
-                <h5 class="text-white"style="color: #fdcc4e !important;">Address</h5>
+                <h5 class="text-white"style="color: #641252 !important;">Address</h5>
                 <p> L.G.C. 17 1/1, Indira Nagar, Near Capital        Tyre, L.B.S. Marg, Kurla (West), Mumbai -   400070
 </p>
 
@@ -24,7 +24,7 @@
             </div>
             <div class="col-md-3">
 
-                <h5 class="text-white"style="color: #fdcc4e !important;">Contact Us</h5>
+                <h5 class="text-white"style="color: #641252 !important;">Contact Us</h5>
                 <p>Call -<br> +91-9321022831    
                 </p>
 
@@ -64,7 +64,7 @@
             <div class="col-md-3">
                 <div class="col-md-12">
 
-                    <h5 class="text-white"style="color: #fdcc4e !important;">Location</h5>
+                    <h5 class="text-white"style="color: #641252 !important;">Location</h5>
                     <div class="col-md-12">
                     
                 <iframe width="250" height="262" frameborder="0" style="border:0" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d227826.43348609!2d80.946166!3d26.846693699999996!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7c8c159ba3d75%3A0xf5e1b86364ad366d!2sOYO%205171%20Hotel%20Palace%20Residency!5e0!3m2!1sen!2sin!4v1637823384776!5m2!1sen!2sin" allowfullscreen></iframe>
@@ -82,7 +82,7 @@
             <div class="row pt-5 mt-5 text-center">
                 <div class="col-md-12">
                     <p>
-                         All Rights Reserved |<font color="pink"> <a href="http://hospitalityminds.com">Hospitality Minds</a></font>
+                         All Rights Reserved | <span><a style="color: magenta;" href="http://hospitalityminds.com">Hospitality Minds</a></span>
                     </p>
                 </div>
             </div>
